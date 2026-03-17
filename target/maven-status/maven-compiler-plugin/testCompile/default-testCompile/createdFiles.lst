@@ -1,0 +1,6 @@
+tests\LogoTest.class
+config\PlaywrightConfig.class
+runners\RunCucumberTest.class
+pages\PageObject.class
+steps\LogoTestSteps.class
+locators\Locators.class
